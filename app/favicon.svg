@@ -1,0 +1,8 @@
+<svg viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
+    <!-- rectangle for icon background -->
+    <rect x="0" y="0" width="180" height="180" fill="#F0DB4F" />
+
+    <!-- foreground icon text -->
+    <text x="110" y="170" font-size="125" text-anchor="middle" fill="#323330"
+        font-family="'Neutraface Text'" text-decoration="line-through">JS</text>
+</svg>
